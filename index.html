@@ -21,10 +21,12 @@
   </header>
 
   <!-- ===== Filter toggle + panel ===== -->
-  <button class="filter-toggle" id="filter-toggle">Filters</button>
-  <div class="filter-overlay" id="filter-overlay"></div>
-  <aside class="filter-panel" id="filter-panel">
+ <button class="filter-toggle" id="filter-toggle">Filters</button>
+<aside class="filter-panel" id="filter-panel">
+  <div class="filter-panel__head">
     <h2>Filter by tag</h2>
+    <button class="filter-panel__close" id="filter-close" aria-label="Close filters">&times;</button>
+  </div>
     <div class="tag-cloud" id="tag-cloud"><!-- built by JS from each photo's data-tags --></div>
     <button class="filter-clear" id="filter-clear">Clear filters</button>
   </aside>
